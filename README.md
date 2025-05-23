@@ -1,0 +1,1 @@
+The BuzzBoard database manages university event tracking with four tables: Students, Organizers, Events, and Registrations. Each table stores relevant data—students and organizers’ details, event info, and student event registrations.This structure supports managing event participation and helps students discover and register for campus events efficiently.
